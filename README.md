@@ -1,5 +1,5 @@
 # PolyglotColab
-Polyglot Jupyter notenook Poilerplate code
+Polyglot Jupyter notenook Boilerplate code
 
 
 [Polyglot Programming](https://en.wikipedia.org/wiki/Polyglot_(computing)) refers to the ability  to use multiple programming languages in one domain app  . 
@@ -12,3 +12,4 @@ there's often muliple ways to do this , either by  exposing low level code  thro
 Google colab is a great platform to build and run Jupyter Notebooks . 
 
 ![image](https://github.com/PrestigeDevop/PolyglotColab/assets/85388342/c682dc96-c0c2-4da8-9ce6-d081c1fb41ff)
+
